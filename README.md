@@ -12,4 +12,4 @@
 
 1. Clone or download the repository.
 2. 
-   git clone https://github.com/yourusername/site-time-monitor.git
+   git clone https://github.com/AdityaS1204/site-time-monitor.git
