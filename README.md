@@ -11,5 +11,10 @@
 # Installation
 
 1. Clone or download the repository.
-2. 
+2. ```
    git clone https://github.com/AdityaS1204/site-time-monitor.git
+3. Go to chrome settings.
+   - extensions
+   - manage extensions
+4. enable the developer mode
+5. unpack the extension file.
