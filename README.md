@@ -8,6 +8,8 @@
 - **Dashboard**: View a detailed breakdown of sites visited and time spent on each.
 - **Real-Time Updates**: Time spent is updated in real-time as you navigate across tabs.
 
+# Preview
+![extension Screenshot](screenshot.png)
 # Installation
 
 1. Clone or download the repository.
