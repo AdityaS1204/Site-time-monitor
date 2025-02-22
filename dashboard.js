@@ -86,6 +86,8 @@ function categorize(site) {
     if (site.includes('meet') || site.includes('zoom')) return 'Meetings';
     if (site.includes('youtube')) return 'Entertainment';
     if (site.includes('linkedin')) return 'Social';
+    if (site.includes('X')) return 'Social';
+    if (site.includes('Instagram')) return 'Social';
     return 'Other';
 }
 
